@@ -1,6 +1,8 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2024 Code for NL
+status: correcties-v0.1
+opmerking: "In verband met de overgang van de governance is dit bestand verouderd en moet derhalve worden herzien; hier en in de upstream."
 ---
 
 # Governance
